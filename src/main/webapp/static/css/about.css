@@ -1,0 +1,22 @@
+body{
+  background-color: #eee;
+}
+
+.cara{
+    height: 500px;
+    text-align: center;
+}
+
+.image-div{
+    padding: 50px;
+}
+img{
+    border-radius: 50%;
+    height: 50%;
+
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
