@@ -50,14 +50,17 @@ In this database make two tables<br>
 #### Contact Us
 <img src="/screenshots/contact-us.png" width="800" />
 
-<!-- #### Company Register-Login
+#### Company Register-Login
 <p float="left">
-  <img src="/screenshots/company-register.png" width="500" height="235"/>
-  <img src="/screenshots/company-login.png" width="500" height="235" /> 
+  <img src="/screenshots/company-register.png" width="400" height="233"/>
+  <img src="/screenshots/company-login.png" width="400" height="233" /> 
 </p>
 
-<img src="/screenshots/distributor-list.png" width="500" />
-<img src="/screenshots/article-list.png" width="500"  />  -->
+#### Company-Distributors
+<img src="/screenshots/distributor-list.png" width="800" />
+
+#### Distributors-Inventory
+<img src="/screenshots/article-list.png" width="800"  /> 
 
 
 
