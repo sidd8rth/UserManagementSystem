@@ -43,8 +43,8 @@ In this database make two tables<br>
 
 #### About Us
 <p float="left">
-  <img src="/screenshots/about-chopra.png" width="400" />
-  <img src="/screenshots/about-porwal.png" width="400" height="243" /> 
+  <img src="/screenshots/about-chopra.png" width="400" height="272" />
+  <img src="/screenshots/about-porwal.png" width="400"  /> 
 </p>
 
 #### Contact Us
